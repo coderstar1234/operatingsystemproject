@@ -109,7 +109,7 @@ This project is licensed under the LICENSE - see the LICENSE file for details.
 Contact
 
 If you have any questions or comments about the programs, please feel free to contact us at [email address].
-
+<hr>
 Acknowledgements
 
 Provide any acknowledgements for resources or inspiration used in the programs.
