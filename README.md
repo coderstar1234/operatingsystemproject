@@ -105,7 +105,7 @@ If you're interested in contributing to the programs, please read the CONTRIBUTI
 License
 
 This project is licensed under the LICENSE - see the LICENSE file for details.
-
+<hr>
 Contact
 
 If you have any questions or comments about the programs, please feel free to contact us at [email address].
