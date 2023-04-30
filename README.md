@@ -1,4 +1,4 @@
-Operating System Lab Programs
+<h1 align="center">Operating System Lab Programs</h1>
 
 This repository contains programs related to operating systems, including First-Come-First-Serve (FCFS), JSP, Priority scheduling algorithms, and other C programs.
 <hr>
@@ -6,25 +6,25 @@ Table of Contents
 
 Operating System Lab Programs
 
-Table of Contents
+- Table of Contents
 
-Programs
+- Programs
 
-Getting Started
+- Getting Started
 
-Prerequisites
+- Prerequisites
 
-Installation
+- Installation
 
-Usage
+- Usage
 
-Contributing
+- Contributing
 
-License
+- License
 
-Contact
+- Contact
 
-Acknowledgements
+- Acknowledgements
 
 Programs
 
