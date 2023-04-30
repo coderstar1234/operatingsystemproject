@@ -7,23 +7,14 @@ Table of Contents
 Operating System Lab Programs
 
 - Table of Contents
-
 - Programs
-
 - Getting Started
-
 - Prerequisites
-
 - Installation
-
 - Usage
-
 - Contributing
-
 - License
-
 - Contact
-
 - Acknowledgements
 
 Programs
