@@ -28,7 +28,7 @@ Job Scheduling Problem (JSP) using priority queue
 Priority scheduling algorithm
 
 Other C programs related to operating systems
-
+<hr>
 Getting Started
 
 To get started with these programs, follow these steps:
