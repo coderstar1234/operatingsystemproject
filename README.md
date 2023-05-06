@@ -17,7 +17,7 @@ This repository contains programs related to operating systems, including First-
 - Contact
 - Acknowledgements
 <hr>
-Programs
+<h2 align="center">Programs</h2>
 
 This repository contains the following programs:
 
