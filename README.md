@@ -89,7 +89,7 @@ The program will output the results based on the selected scheduling algorithm.
 
 Provide any relevant information about how the program should be used, including command line arguments, expected output, and any other details.
 
-Contributing
+<h2 align="center">Contributing</h2>
 
 If you're interested in contributing to the programs, please read the CONTRIBUTING.md file to get started.
 
