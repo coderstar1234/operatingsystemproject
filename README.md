@@ -29,7 +29,7 @@ Priority scheduling algorithm
 
 Other C programs related to operating systems
 <hr>
-Getting Started
+<h2 align="center">Getting Started</h2>
 
 To get started with these programs, follow these steps:
 
