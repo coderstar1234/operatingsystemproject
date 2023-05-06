@@ -75,7 +75,7 @@ Copy code
 
 ./program_name
 
-Usage
+<h2 align="center">Usage</h2>
 
 To use the programs, follow these steps:
 
