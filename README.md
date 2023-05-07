@@ -97,7 +97,7 @@ License
 
 This project is licensed under the LICENSE - see the LICENSE file for details.
 <hr>
-Contact
+<h2 align="center">Contact</h2>
 
 If you have any questions or comments about the programs, please feel free to contact us at [email address].
 <hr>
