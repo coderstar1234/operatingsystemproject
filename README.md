@@ -19,15 +19,15 @@ This repository contains programs related to operating systems, including First-
 <hr>
 <h2 align="center">Programs</h2>
 
-This repository contains the following programs:
+- This repository contains the following programs:
 
-First-Come-First-Serve (FCFS) scheduling algorithm
+- First-Come-First-Serve (FCFS) scheduling algorithm
 
-Job Scheduling Problem (JSP) using priority queue
+- Job Scheduling Problem (JSP) using priority queue
 
-Priority scheduling algorithm
+- Priority scheduling algorithm
 
-Other C programs related to operating systems
+- Other C programs related to operating systems
 <hr>
 <h2 align="center">Getting Started</h2>
 
