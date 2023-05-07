@@ -101,7 +101,7 @@ Contact
 
 If you have any questions or comments about the programs, please feel free to contact us at [email address].
 <hr>
-Acknowledgements
+<h2 align="center">Acknowledgements</h2>
 
 Provide any acknowledgements for resources or inspiration used in the programs.
 <hr>
