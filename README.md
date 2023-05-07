@@ -1,6 +1,6 @@
 <h1 align="center">Operating System Lab Programs</h1>
 
-This repository contains programs related to operating systems, including First-Come-First-Serve (FCFS), JSP, Priority scheduling algorithms, and other C programs.
+- This repository contains programs related to operating systems, including First-Come-First-Serve (FCFS), JSP, Priority scheduling algorithms, and other C programs.
 <hr>
 <h1 align="center">Table of Contents:</h1>
 
