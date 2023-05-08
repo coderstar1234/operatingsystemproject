@@ -91,11 +91,11 @@ Copy code
 
 <h2 align="center">Contributing</h2>
 
-If you're interested in contributing to the programs, please read the CONTRIBUTING.md file to get started.
+- If you're interested in contributing to the programs, please read the CONTRIBUTING.md file to get started.
 
 License
 
-This project is licensed under the LICENSE - see the LICENSE file for details.
+- This project is licensed under the LICENSE - see the LICENSE file for details.
 <hr>
 <h2 align="center">Contact</h2>
 
