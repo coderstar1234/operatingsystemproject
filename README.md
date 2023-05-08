@@ -77,17 +77,17 @@ Copy code
 
 <h2 align="center">Usage</h2>
 
-To use the programs, follow these steps:
+- To use the programs, follow these steps:
 
-Compile the program using the instructions above.
+- Compile the program using the instructions above.
 
-Run the program as shown above.
+- Run the program as shown above.
 
-Provide any required input, such as the number of processes and their burst times, as prompted by the program.
+- Provide any required input, such as the number of processes and their burst times, as prompted by the program.
 
-The program will output the results based on the selected scheduling algorithm.
+- The program will output the results based on the selected scheduling algorithm.
 
-Provide any relevant information about how the program should be used, including command line arguments, expected output, and any other details.
+- Provide any relevant information about how the program should be used, including command line arguments, expected output, and any other details.
 
 <h2 align="center">Contributing</h2>
 
