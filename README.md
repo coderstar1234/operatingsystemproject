@@ -89,19 +89,19 @@ Copy code
 
 - Provide any relevant information about how the program should be used, including command line arguments, expected output, and any other details.
 
-<h2 align="center">Contributing</h2>
+<h1 align="center">Contributing</h1>
 
 - If you're interested in contributing to the programs, please read the CONTRIBUTING.md file to get started.
 
-License
+<h1 align="center">License</h1>
 
 - This project is licensed under the LICENSE - see the LICENSE file for details.
 <hr>
-<h2 align="center">Contact</h2>
+<h1 align="center">Contact</h1>
 
 If you have any questions or comments about the programs, please feel free to contact us at [email address].
 <hr>
-<h2 align="center">Acknowledgements</h2>
+<h1 align="center">Acknowledgements</h1>
 
 Provide any acknowledgements for resources or inspiration used in the programs.
 <hr>
