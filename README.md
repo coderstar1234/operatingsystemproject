@@ -31,7 +31,7 @@
 <hr>
 <h2 align="center">Getting Started:-</h2>
 
-To get started with these programs, follow these steps:
+- To get started with these programs, follow these steps:
 
 <h2 align="center">Prerequisites</h2>
 
