@@ -35,7 +35,7 @@
 
 <h2 align="center">Prerequisites</h2>
 
-A C compiler such as GCC or Clang
+- A C compiler such as GCC or Clang
 
 Any text editor or IDE to modify the code
 
