@@ -37,7 +37,7 @@
 
 - A C compiler such as GCC or Clang
 
-Any text editor or IDE to modify the code
+- Any text editor or IDE to modify the code
 
 A terminal or command prompt to run the programs
 
