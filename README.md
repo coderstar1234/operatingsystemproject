@@ -39,7 +39,7 @@
 
 - Any text editor or IDE to modify the code
 
-A terminal or command prompt to run the programs
+- A terminal or command prompt to run the programs
 
 Installation
 
