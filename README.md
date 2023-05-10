@@ -33,7 +33,7 @@
 
 - To get started with these programs, follow these steps:
 
-<h2 align="center">Prerequisites</h2>
+<h2 align="center">Prerequisites:-</h2>
 
 - A C compiler such as GCC or Clang
 
