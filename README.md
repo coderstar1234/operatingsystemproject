@@ -29,7 +29,7 @@
 
 - Other C programs related to operating systems
 <hr>
-<h2 align="center">Getting Started:-</h2>
+<h1 align="center">Getting Started:-</h1>
 
 - To get started with these programs, follow these steps:
 
