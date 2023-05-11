@@ -41,7 +41,7 @@
 
 - A terminal or command prompt to run the programs
 
-Installation
+<h1 align="center">Installation:-</h1>
 
 Clone the repository
 
