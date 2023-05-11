@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">Table of Contents:-</h1>
 
-<h2 align="center">Operating System Lab Programs:-</h2>
+<h1 align="center">Operating System Lab Programs:-</h1>
 
 - Table of Contents
 - Programs
