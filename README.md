@@ -17,7 +17,7 @@
 - Contact
 - Acknowledgements
 <hr>
-<h2 align="center">Programs:-</h2>
+<h1 align="center">Programs:-</h1>
 
 - This repository contains the following programs:
 
