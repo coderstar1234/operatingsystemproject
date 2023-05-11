@@ -29,7 +29,7 @@
 
 - Other C programs related to operating systems
 <hr>
-<h1 align="center">Getting Started:-</h1>
+<h1 align="center" >Getting Started🖐️</h1>
 
 - To get started with these programs, follow these steps:
 
@@ -43,35 +43,32 @@
 
 <h1 align="center">Installation:-</h1>
 
-Clone the repository
+<h2 align="center" >Clone the repository✏️</h2>
+<h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4>
 
-sh
+<p align="center">git clone:-<br> git clone https://github.com/username/repository.git</p><hr>
 
-Copy code
 
-git clone https://github.com/username/repository.git
 
 Navigate to the program directory
 
-sh
-
-Copy code
+<h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4>
 
 cd program_directory
 
 Compile the program using a C compiler
 
-sh
-
-Copy code
-
+<h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4><h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4>
 gcc -o program_name program_name.c
 
 Run the program
 
-sh
-
-Copy code
+<h3 align="center" >bash📖</h3>
+<h4 align="center" >Copy code📝</h4>
 
 ./program_name
 
