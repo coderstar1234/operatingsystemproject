@@ -63,14 +63,14 @@
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4><h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
-gcc -o program_name program_name.c
+- gcc -o program_name program_name.c
 
-Run the program
+- Run the program
 
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
 
-./program_name
+<p align="center">./program_name:-</p>
 
 <h2 align="center">Usage</h2>
 
