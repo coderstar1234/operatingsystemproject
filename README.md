@@ -51,7 +51,7 @@
 
 
 
-Navigate to the program directory
+<p align="center">Navigate to the program directory</p>
 
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
