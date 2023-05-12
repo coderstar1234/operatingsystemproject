@@ -56,9 +56,9 @@
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
 
-cd program_directory
+- cd program_directory
 
-Compile the program using a C compiler
+<p align="center"> Compile the program using a C compiler:-</p>
 
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4><h3 align="center" >bash📖</h3>
