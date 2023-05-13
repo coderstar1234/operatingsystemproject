@@ -63,6 +63,7 @@
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4><h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4>
+
 - gcc -o program_name program_name.c
 
 - Run the program
