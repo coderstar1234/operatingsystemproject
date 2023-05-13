@@ -92,7 +92,7 @@
 
 - If you're interested in contributing to the programs, please read the CONTRIBUTING.md file to get started.
 <hr>
-<h1 align="center">License</h1>
+<h1 align="center">License:-</h1>
 
 - This project is licensed under the LICENSE - see the LICENSE file for details.
 <hr>
