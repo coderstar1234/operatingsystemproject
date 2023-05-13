@@ -96,7 +96,7 @@
 
 - This project is licensed under the LICENSE - see the LICENSE file for details.
 <hr>
-<h1 align="center">Contact</h1>
+<h1 align="center">Contact:-</h1>
 
 - If you have any questions or comments about the programs, please feel free to contact us at [email address].
 <hr>
