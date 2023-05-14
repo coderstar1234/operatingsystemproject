@@ -1,4 +1,4 @@
-<h1 align="center">Operating System Lab Programs:-</h1>
+<h1 align="center">Operating System Lab Programs⚙️🔧:-</h1>
 
 - This repository contains programs related to operating systems, including First-Come-First-Serve (FCFS), JSP, Priority scheduling algorithms, and other C programs.
 <hr>
