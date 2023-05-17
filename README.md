@@ -88,7 +88,7 @@
 
 - Provide any relevant information about how the program should be used, including command line arguments, expected output, and any other details.
 <hr>
-<h1 align="center">Contributing</h1>
+<h1 align="center">Contributing:-</h1>
 
 - If you're interested in contributing to the programs, please read the CONTRIBUTING.md file to get started.
 <hr>
