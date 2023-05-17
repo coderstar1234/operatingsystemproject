@@ -59,7 +59,7 @@
 
 - cd program_directory
 
-<p align="center"> Compile the program using a C compiler:-</p>
+<p align="center"> Compile the program using a C compiler⚒️:-</p>
 
 <h3 align="center" >bash📖</h3>
 <h4 align="center" >Copy code📝</h4><h3 align="center" >bash📖</h3>
