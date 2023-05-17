@@ -42,7 +42,7 @@
 
 - A terminal or command prompt to run the programs
 
-<h1 align="center">Installation:-</h1>
+<h1 align="center">Installation✒️:-</h1>
 
 <h2 align="center" >Clone the repository✏️</h2>
 <h3 align="center" >bash📖</h3>
